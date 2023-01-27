@@ -20,3 +20,4 @@ class OperasBas:
     def main():
         obj = OperasBas(3,2)
         obj.suma
+        print("La suma es: {}")
